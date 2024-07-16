@@ -199,6 +199,6 @@ The Azure DevOps project created a Git repository in your Azure DevOps organizat
 Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
 
 
-#### Author by [DevCloud Ninjas](https://github.com/DevCloudNinjas)
+#### Author by [M.Andres](https://github.com/andrewsrio2001)
 
 Ensure to follow me on GitHub. Please star/share this repository!
